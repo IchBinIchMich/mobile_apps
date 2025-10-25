@@ -13,7 +13,7 @@
 | -: | ---------------------------------------------- | -- | :------------------------------: |
 |  1 | AHMAD MUZAKKIR BIN MUHAMAD                     |    | [:octocat:](https://github.com/) |
 |  2 | AIMAN FITRI BIN YUSRI                          |    | [:octocat:](https://github.com/) |
-|  3 | AIMIE NATASYA BINTI AYUB                       |    | [:octocat:](https://github.com/) |
+|  3 | AIMIE NATASYA BINTI AYUB                       |  IchBinIchMich  | [:octocat:](https://github.com/) |
 |  4 | AMIN ZUL HUSNI BIN MOHAMAD BAHARUDIN           |    | [:octocat:](https://github.com/) |
 |  5 | AMMAR IBRAHIM BIN MOHAMED                      |  ammaribrahim95  | [:octocat:](https://github.com/ammaribrahim95) |
 |  6 | ASHA A/P SHANMUGAM                             |    | [:octocat:](https://github.com/) |
